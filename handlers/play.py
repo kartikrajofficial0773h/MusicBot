@@ -107,7 +107,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Support⚡️",
-                        url="https://t.me/KINGBOTOFFICIALCHAT")
+                        url="https://t.me/KINGBOTOFFICIAL")
                    
                 ]
             ]
