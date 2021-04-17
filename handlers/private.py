@@ -28,7 +28,7 @@ Regrards [KINGBOT](https://t.me/KINGBOTOFFICIAL)
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 DEPLOY LINK🛠", url="https://github.com/kartikrajofficial")
+                        "🛠 DEPLOY LINK🛠", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkartikrajofficial%2FMusicBot&template=https%3A%2F%2Fgithub.com%2Fkartikrajofficial%2FMusicBot")
                   ],[
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/KINGBOTOFFICIALCHAT"
